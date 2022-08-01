@@ -35,7 +35,7 @@ Customer information notes that variance in suspension coils must not exceed 100
 
 ## T-Tests on Suspension Coils
 
-![Overall T-Test Results](OverallTtest.png)
+![Overall T-Test Results](OverallTTest.png)
 
 An examination of a t-test on the overall data shows that the p-value (0.06028) is greater than our assumed significance level (0.05). This means that the PSI across all lots is statistically similar to the mean of 1500 PSI.
 
